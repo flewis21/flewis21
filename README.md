@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flewis21
 - 👀 I’m interested in toys
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me email
 
